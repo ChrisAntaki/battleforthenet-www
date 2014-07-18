@@ -18,7 +18,8 @@ their ["14-28 Protecting and Promoting the Open Internet"][2] proposal,
 which could actually _destroy_ the Internet by allowing ISPs to extort money
 from web sites and startups.
 
-If you want to embed our contact form, use the following code:
+If you want to embed our contact form, use the following code: (See it in
+action at **[netneutrality.com][6]!**)
 
     <iframe src="https://www.battleforthenet.com/embed.html"
         frameborder="0"
@@ -26,7 +27,6 @@ If you want to embed our contact form, use the following code:
         allowTransparency="true"
         style="width: 100%; height: 480px;"></iframe>
 
-You can see this in action at **[netneutrality.com][6]**
 
 ### Contributing to our code
 
