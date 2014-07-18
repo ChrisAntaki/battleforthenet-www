@@ -1,7 +1,7 @@
 Battle for the Net!
 -------------------
 
-* **This is the source code for [battleforthenet.com][1]**
+* **This is the source code for [battleforthenet.com][1]!**
 
 Don't let the FCC kill net neutrality! The Battle for the Net is a
 collaboration between Fight for the Future, Demand Progress and a coalition of
@@ -33,7 +33,7 @@ If you want to embed our contact form, use the following code:
 We are looking for skilled web developers to help us build the front page on
 our [battleforthenet.com][1] site. You can see our code right in this Github
 repo by switching to the _gh_pages_ branch, and you can see the work we need
-done on our [Battle for the Net Trello board][3]!
+done on our **[Battle for the Net Trello board][3]!**
 
 If you're interested in volunteering, contact <jeff@rubbingalcoholic.com>
 
