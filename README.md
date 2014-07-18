@@ -15,7 +15,8 @@ win one of the biggest fights for Internet freedom EVER!
 
 We've created a form that lets people directly contact the FCC to comment on
 their ["14-28 Protecting and Promoting the Open Internet"][2] proposal,
-which could actually _destroy_ the Internet.
+which could actually _destroy_ the Internet by allowing ISPs to extort money
+from web sites and startups.
 
 If you want to embed our contact form, use the following code:
 
