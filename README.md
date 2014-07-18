@@ -26,6 +26,7 @@ If you want to embed our contact form, use the following code:
         allowTransparency="true"
         style="width: 100%; height: 480px;"></iframe>
 
+You can see this in action at **[netneutrality.com][6]**
 
 ### Contributing to our code
 
@@ -40,3 +41,6 @@ If you're interested in volunteering, contact <jeff@rubbingalcoholic.com>
 [1]: https://www.battleforthenet.com
 [2]: http://www.fcc.gov/comments
 [3]: https://trello.com/b/sAJITt1g/battle-for-the-net
+[4]: https://www.fightforthefuture.org
+[5]: http://www.demandprogress.org
+[6]: http://www.netneutrality.com
