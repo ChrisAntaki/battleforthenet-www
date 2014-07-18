@@ -4,20 +4,18 @@ Battle for the Net!
 * **This is the source code for [battleforthenet.com][1]!**
 
 Don't let the FCC kill net neutrality! The Battle for the Net is a
-collaboration between Fight for the Future, Demand Progress and a coalition of
-people and companies. If you have a web site, you can get involved by
-embedding our FCC Contact Form. Or, if you have technical skills and time
-to volunteer, you can help us win one of the biggest fights for Internet
-freedom EVER!
+collaboration between [Fight for the Future][4], [Demand Progress][5] and a
+coalition of people and companies who care about keeping the Internet free.
+If you have a web site, you can get involved by embedding our FCC Contact
+Form. Or, if you have technical skills and time to volunteer, you can help us
+win one of the biggest fights for Internet freedom EVER!
 
 
 ### Embed our FCC Contact Form
 
 We've created a form that lets people directly contact the FCC to comment on
-their ["14-28 Protecting and Promoting the Open Internet"][2] proposal. Of
-course the worry is that this will actually _destroy_ the Internet
-by allowing ISPs to extort web sites for payments while putting everyone else
-in a "slow lane."
+their ["14-28 Protecting and Promoting the Open Internet"][2] proposal,
+which could actually _destroy_ the Internet.
 
 If you want to embed our contact form, use the following code:
 
